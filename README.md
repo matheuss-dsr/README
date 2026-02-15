@@ -1,15 +1,66 @@
-<h1 align="center">Olá 👋, meu nome é Matheus Reis</h1>
-<h3 align="center">Sou um desenvolvedor back-end e front-end iniciante</h3>
+<div align='center'>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+me+chamo+Matheus+Reis;T%C3%A9cnico+em+Inform%C3%A1tica;Estudante+de+Cyber+Security" alt="Typing SVG" />
+</div>
+<br>
 
-- 🌱 No momento estou aprendendo **React Native, Javascript, PHP e MYSQL**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuss-dsr&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuss-dsr&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</div>
 
-- 📫 Contato **reis46530@gmail.com**
+<br>
 
-<h3 align="left">Contate-me:</h3>
-<p align="left">
-<a href="https://instagram.com/reissm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reissm_" height="30" width="40" /></a>
-</p>
+## Sobre mim
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+- **Foco atual**: **Segurança Cibernética, PENTEST e Infraestrutura**  
+- Estudando/aprendendo no momento: **Firewall**  
+- Gosto de criar soluções que **fazem poupar tempo**  
 
+<br>
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,postgres,mysql,github,linux,vscode&perline=8" alt="Tecnologias" />
+</div>
+
+<br>
+
+## Redes Sociais:
+
+<div>
+<div>
+<a href="https://www.linkedin.com/in/matheus-reis-189115246/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</div>
+<div>
+<a href="https://instagram.com/reissm_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+</div>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuss-dsr&theme=dracula&hide_border=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <br>
+  <br>
+
+<div align="center">
+  <hr width="50%">
+  <blockquote>
+    “The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards — and even then I have my doubts.”  
+    <small>— Gene Spafford</small>
+  </blockquote>
+  <hr width="50%">
+</div>
+
+<div align="center">
+  <i>Segurança é equilíbrio.</i>
+</div>
+</div>
