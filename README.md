@@ -3,11 +3,6 @@
 </div>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuss-dsr&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuss-dsr&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
 <br>
 
 ## Sobre mim
